@@ -4,6 +4,15 @@
 
 The Outlier is a transition rule for 2D binary cellular automata. Self Please refer to the paper for additional details.
 
+### Video
+
+The three part video documents the entire lifecycle originating from a single 3x3 seed, as depicted in Figure 3 of the paper.
+The 2048x2048 H265-encoded movie is split into 3 parts. I recommend the first part to be watched initially.
+
+* Clusters, self-replicating formations, and the development of a complex:  [outlier_seed_a.mp4](https://adjacentlab.com/outlier/videos/outlier_seed_a.mp4) (130MB)
+* The complex expands and fills up the 2048x2048 periodic grid: [outlier_seed_b.mp4](https://adjacentlab.com/outlier/videos/outlier_seed_b.mp4) (500MB)
+* Collision and ensuing chaos: [outlier_seed_c.mp4](https://adjacentlab.com/outlier/videos/outlier_seed_c.mp4) (1.01GB)
+
 ### Paper
 #### Self-Replicating Hierarchical Structures Emerge in a Binary Cellular Automaton
 **Abstract**: We have discovered a novel transition rule for binary cellular automata (CA)
@@ -21,11 +30,3 @@ this purpose, the Outlier may be the first known rule to facilitate emergent sel
 
 Full paper: [arXiv:2305.19504](https://arxiv.org/abs/2305.19504) PDF: [https://arxiv.org/pdf/2305.19504.pdf](https://arxiv.org/pdf/2305.19504.pdf)
 
-### Video
-
-The three part video documents the entire lifecycle originating from a single 3x3 seed, as depicted in Figure 3 of the paper.
-The 2048x2048 H265-encoded movie is split into 3 parts. I recommend the first part to be watched initially.
-
-* Clusters, self-replicating formations, and the development of a complex:  [outlier_seed_a.mp4](https://adjacentlab.com/outlier/videos/outlier_seed_a.mp4) (130MB)
-* The complex expands and fills up the 2048x2048 periodic grid: [outlier_seed_b.mp4](https://adjacentlab.com/outlier/videos/outlier_seed_b.mp4) (500MB)
-* Collision and ensuing chaos: [outlier_seed_c.mp4](https://adjacentlab.com/outlier/videos/outlier_seed_c.mp4) (1.01GB)
