@@ -6,7 +6,7 @@ The Outlier is a transition rule for 2D binary cellular automata. Self Please re
 
 ### Video
 
-The three part video documents the entire lifecycle originating from a single 3x3 seed, as depicted in Figure 3 of the paper.
+The three part video documents the entire lifecycle originating from a single 3x3 seed, as depicted in Figure 4 of the paper.
 The 2048x2048 H265-encoded movie is split into 3 parts. I recommend the first part to be watched initially.
 
 * Clusters, self-replicating formations, and the development of a complex:  [outlier_seed_a.mp4](https://adjacentlab.com/outlier/videos/outlier_seed_a.mp4) (130MB)
