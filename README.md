@@ -2,7 +2,7 @@
 
 (work in progress)
 
-The Outlier is a transition rule for 2D binary cellular automata. Self Please refer to the paper for additional details.
+The Outlier is a transition rule for 2D binary cellular automata. Please refer to the paper below for additional details.
 
 ### Video
 
