@@ -15,7 +15,7 @@ The 2048x2048 H265-encoded movie is split into 3 parts. I recommend the first pa
 
 ### Code
 
-For represetation of the Outlier rule as a lookup table, please see outlier_rule.jl. It should be self-explanatory, even to non-Julia coders.
+For representation of the Outlier rule as a lookup table, please see outlier_rule.jl. It should be self-explanatory, even to non-Julia coders.
 
 ### Paper
 #### Self-Replicating Hierarchical Structures Emerge in a Binary Cellular Automaton
