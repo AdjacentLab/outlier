@@ -13,6 +13,10 @@ The 2048x2048 H265-encoded movie is split into 3 parts. I recommend the first pa
 * The complex expands and fills up the 2048x2048 periodic grid: [outlier_seed_b.mp4](https://adjacentlab.com/outlier/videos/outlier_seed_b.mp4) (500MB)
 * Collision and ensuing chaos: [outlier_seed_c.mp4](https://adjacentlab.com/outlier/videos/outlier_seed_c.mp4) (1.01GB)
 
+### Code
+
+For represetation of the Outlier rule as a lookup table, please see outlier_rule.jl. It should be self-explanatory, even to non-Julia coders.
+
 ### Paper
 #### Self-Replicating Hierarchical Structures Emerge in a Binary Cellular Automaton
 **Abstract**: We have discovered a novel transition rule for binary cellular automata (CA)
