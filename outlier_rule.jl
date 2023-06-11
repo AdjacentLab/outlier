@@ -6,7 +6,7 @@
 # for non-Julia coders:
 # array index starts at 1 in Julia. other things should be self-explanatory
 #
-# the functions are written only for illustative purposes, but they are functional.
+# the functions are written only for illustrative purposes, but they are functional.
 #
 
 const OUTLIER_HEX = "111e111b144eebb41079234f151ad6ee111e2d171904dad0ef86b5e8e7ca4c40131d10881679e80a10682534a156861240692a952cada74bf8b086621315a0f2"
